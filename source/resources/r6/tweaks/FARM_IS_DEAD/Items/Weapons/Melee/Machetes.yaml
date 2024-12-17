@@ -1,0 +1,15 @@
+# --------------------------------------------------------------------------------
+# マチェーテ
+# --------------------------------------------------------------------------------
+
+## ククリ
+Items.Preset_Kukri_Default_inline1.itemPartList: []
+Items.Preset_Kukri_Default_inline2.itemPartList: []
+
+## マチェーテ
+Items.Preset_Machete_Default_inline1.itemPartList: []
+Items.Preset_Machete_Default_inline2.itemPartList: []
+
+## レイザー
+Items.Preset_Machete_Borg_Default_inline1.itemPartList: []
+Items.Preset_Machete_Borg_Default_inline2.itemPartList: []

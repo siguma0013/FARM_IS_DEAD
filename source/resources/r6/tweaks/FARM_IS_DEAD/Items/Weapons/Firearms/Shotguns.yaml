@@ -1,0 +1,27 @@
+# --------------------------------------------------------------------------------
+# パワーショットガン
+# --------------------------------------------------------------------------------
+
+## M2038 タクティシャン
+Items.Preset_Tactician_Default_inline4.itemPartList: []
+Items.Preset_Tactician_Default_inline5.itemPartList: []
+
+## VST-37 ポシャル
+Items.Preset_Pozhar_Default_inline4.itemPartList: []
+Items.Preset_Pozhar_Default_inline5.itemPartList: []
+
+## カーネイジ
+Items.Preset_Carnage_Default_inline4.itemPartList: []
+Items.Preset_Carnage_Default_inline5.itemPartList: []
+
+## クラッシャー
+Items.Preset_Crusher_Default_inline4.itemPartList: []
+Items.Preset_Crusher_Default_inline5.itemPartList: []
+
+# --------------------------------------------------------------------------------
+# スマートショットガン
+# --------------------------------------------------------------------------------
+
+## L-69 ズオ
+Items.Preset_Zhuo_Default_inline4.itemPartList: []
+Items.Preset_Zhuo_Default_inline5.itemPartList: []

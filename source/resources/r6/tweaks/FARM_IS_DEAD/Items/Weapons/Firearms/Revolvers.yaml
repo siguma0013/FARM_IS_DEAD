@@ -1,0 +1,28 @@
+# --------------------------------------------------------------------------------
+# パワーリボルバー
+# --------------------------------------------------------------------------------
+
+## DR5 ノヴァ
+Items.Preset_Nova_Default_inline4.itemPartList: []
+Items.Preset_Nova_Default_inline5.itemPartList: []
+
+## オーバーチュア
+Items.Preset_Overture_Default_inline4.itemPartList: []
+Items.Preset_Overture_Default_inline5.itemPartList: []
+
+## メテル
+Items.Preset_Metel_Default_inline4.itemPartList: []
+Items.Preset_Metel_Default_inline5.itemPartList: []
+
+
+# --------------------------------------------------------------------------------
+# テックリボルバー
+# --------------------------------------------------------------------------------
+
+## DR-12 クエーサー
+Items.Preset_Quasar_Default_inline4.itemPartList: []
+Items.Preset_Quasar_Default_inline5.itemPartList: []
+
+## RT-46 ブーリャ
+Items.Preset_Burya_Default_inline4.itemPartList: []
+Items.Preset_Burya_Default_inline5.itemPartList: []

@@ -1,0 +1,21 @@
+# --------------------------------------------------------------------------------
+# 片手持ちクラブ
+# --------------------------------------------------------------------------------
+
+## バール
+Items.Preset_Crowbar_Default_inline1.itemPartList: []
+Items.Preset_Crowbar_Default_inline2.itemPartList: []
+
+## 電気バトンアルファ
+## 電気バトンベータ
+## 電気バトンガンマ
+Items.Preset_Baton_Alpha_inline1.itemPartList: []
+Items.Preset_Baton_Alpha_inline2.itemPartList: []
+
+## スチールパイプ
+Items.Preset_Iron_Pipe_Default_inline2.itemPartList: []
+Items.Preset_Iron_Pipe_Default_inline3.itemPartList: []
+
+## タイヤレバー
+Items.Preset_Tire_Iron_Default_inline1.itemPartList: []
+Items.Preset_Tire_Iron_Default_inline2.itemPartList: []

@@ -1,0 +1,11 @@
+# --------------------------------------------------------------------------------
+# 両手持ちクラブ
+# --------------------------------------------------------------------------------
+
+## ベースボールバット
+Items.Preset_Baseball_Bat_Default_inline1.itemPartList: []
+Items.Preset_Baseball_Bat_Default_inline2.itemPartList: []
+
+## 金棒
+Items.Preset_Kanabo_Default_inline2.itemPartList: []
+Items.Preset_Kanabo_Default_inline3.itemPartList: []

@@ -1,0 +1,23 @@
+# --------------------------------------------------------------------------------
+# ナイフ
+# --------------------------------------------------------------------------------
+
+## ナイフ
+Items.Preset_Knife_Default_inline1.itemPartList: []
+Items.Preset_Knife_Default_inline2.itemPartList: []
+
+## 懐剣
+Items.Preset_Tanto_Default_inline7.itemPartList: []
+Items.Preset_Tanto_Default_inline8.itemPartList: []
+
+## 毒ナイフ
+Items.Preset_Neurotoxin_Knife_Default_inline6.itemPartList: []
+Items.Preset_Neurotoxin_Knife_Default_inline7.itemPartList: []
+
+## パンクナイフ
+Items.Preset_Punk_Knife_Default_inline1.itemPartList: []
+Items.Preset_Punk_Knife_Default_inline2.itemPartList: []
+
+## シェフナイフ
+Items.Preset_Chefs_Knife_Default_inline2.itemPartList: []
+Items.Preset_Chefs_Knife_Default_inline3.itemPartList: []
