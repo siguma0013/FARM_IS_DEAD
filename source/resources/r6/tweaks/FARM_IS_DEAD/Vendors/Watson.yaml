@@ -1,0 +1,53 @@
+# --------------------------------------------------------------------------------
+# ワトソン - カブキ
+# --------------------------------------------------------------------------------
+
+## サター通り - アパレル店
+Vendors.wat_kab_clothingshop_01:
+  # localizedName: "wat_kab_clothingshop_01"
+  inGameTimeToRestock: 7200
+
+## カブキ・マーケット - 鉄砲店
+Vendors.wat_kab_gunsmith_01:
+  # localizedName: "wat_kab_gunsmith_01"
+  inGameTimeToRestock: 7200
+
+
+# --------------------------------------------------------------------------------
+# ワトソン - リトルチャイナ
+# --------------------------------------------------------------------------------
+
+## メトロ：医療センター - アパレル店
+Vendors.wat_lch_clothingshop_01:
+  # localizedName: "wat_lch_clothingshop_01"
+  inGameTimeToRestock: 7200
+
+## H10メガビルディング・アトリウム - 鉄砲店
+Vendors.wat_lch_gunsmith_01:
+  # localizedName: "wat_lch_gunsmith_01"
+  inGameTimeToRestock: 7200
+
+## H10メガビルディング・アトリウム - 近接武器屋
+Vendors.wat_lch_melee_01:
+  # localizedName: "wat_lch_melee_01"
+  inGameTimeToRestock: 7200
+
+
+# --------------------------------------------------------------------------------
+# ワトソン - ノースサイド
+# --------------------------------------------------------------------------------
+
+## オールフーズの工場 - 鉄砲店
+Vendors.wat_kab_gunsmith_02:
+  # localizedName: "wat_kab_gunsmith_02"
+  inGameTimeToRestock: 7200
+
+## パーシング通り - アパレル店
+Vendors.wat_nid_clothingshop_01:
+  # localizedName: "wat_nid_clothingshop_01"
+  inGameTimeToRestock: 7200
+
+## NID：埠頭 - 鉄砲店
+Vendors.wat_nid_gunsmith_01:
+  # localizedName: "wat_nid_gunsmith_01"
+  inGameTimeToRestock: 7200
