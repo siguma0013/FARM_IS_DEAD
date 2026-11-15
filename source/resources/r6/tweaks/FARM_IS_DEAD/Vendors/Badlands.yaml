@@ -1,0 +1,29 @@
+# --------------------------------------------------------------------------------
+# バッドランズ
+# --------------------------------------------------------------------------------
+
+## トレーラーパーク - アパレル店
+Vendors.bls_ina_se1_clothingshop_01:
+  # localizedName: "bls_ina_se1_clothingshop_01"
+  inGameTimeToRestock: 7200
+
+## 移動型キャンプ - 鉄砲店
+## ノーマッドのキャンプ - 鉄砲店
+Vendors.bls_ina_se1_gunsmith_01a:
+  # localizedName: "bls_ina_se1_gunsmith_01a"
+  inGameTimeToRestock: 7200
+
+## サンセットモーテル - 鉄砲店
+Vendors.bls_ina_se1_gunsmith_02:
+  # localizedName: "bls_ina_se1_gunsmith_02"
+  inGameTimeToRestock: 7200
+
+## 燃料ステーション - 鉄砲店
+Vendors.bls_ina_se5_gunsmith_01:
+  # localizedName: "bls_ina_se5_gunsmith_01"
+  inGameTimeToRestock: 7200
+
+## オートワークス - 近接武器屋
+Vendors.bls_ina_se5_melee_01:
+  # localizedName: "bls_ina_se5_melee_01"
+  inGameTimeToRestock: 7200

@@ -1,0 +1,11 @@
+# --------------------------------------------------------------------------------
+# アックス
+# --------------------------------------------------------------------------------
+
+## クロー
+Items.Preset_Fanged_Axe_Default_inline1.itemPartList: []
+Items.Preset_Fanged_Axe_Default_inline2.itemPartList: []
+
+## トマホーク
+Items.Preset_Tomahawk_Default_inline2.itemPartList: []
+Items.Preset_Tomahawk_Default_inline3.itemPartList: []

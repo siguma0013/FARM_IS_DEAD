@@ -1,0 +1,29 @@
+# --------------------------------------------------------------------------------
+# パワーダブルバレルショットガン
+# --------------------------------------------------------------------------------
+
+## DB-2 サタラ
+Items.Preset_Satara_Default_inline4.itemPartList: []
+Items.Preset_Satara_Default_inline5.itemPartList: []
+
+## DB-4 イグラ
+Items.Preset_Igla_Default_inline4.itemPartList: []
+Items.Preset_Igla_Default_inline5.itemPartList: []
+
+
+# --------------------------------------------------------------------------------
+# テックダブルバレルショットガン
+# --------------------------------------------------------------------------------
+
+## DB-2 テステラ
+Items.Preset_Testera_Default_inline4.itemPartList: []
+Items.Preset_Testera_Default_inline5.itemPartList: []
+
+
+# --------------------------------------------------------------------------------
+# スマートダブルバレルショットガン
+# --------------------------------------------------------------------------------
+
+## DB-4 パリカ
+Items.Preset_Palica_Default_inline4.itemPartList: []
+Items.Preset_Palica_Default_inline5.itemPartList: []

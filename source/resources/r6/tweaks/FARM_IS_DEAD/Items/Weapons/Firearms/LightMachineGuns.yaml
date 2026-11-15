@@ -1,0 +1,11 @@
+# --------------------------------------------------------------------------------
+# パワーライトマシンガン
+# --------------------------------------------------------------------------------
+
+## M2067 ディフェンダー
+Items.Preset_Defender_Default_inline4.itemPartList: []
+Items.Preset_Defender_Default_inline5.itemPartList: []
+
+## MA70 HB
+Items.Preset_MA70_Default_inline4.itemPartList: []
+Items.Preset_MA70_Default_inline5.itemPartList: []

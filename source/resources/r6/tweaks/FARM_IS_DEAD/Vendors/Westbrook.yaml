@@ -1,0 +1,33 @@
+# --------------------------------------------------------------------------------
+# ウエストブルック - チャーター・ヒル
+# --------------------------------------------------------------------------------
+
+## レレ・パーク - アパレル店
+Vendors.wbr_hil_clothingshop_01:
+  # localizedName: "wbr_hil_clothingshop_01"
+  inGameTimeToRestock: 7200
+
+
+# --------------------------------------------------------------------------------
+# ウエストブルック - ジャパンタウン
+# --------------------------------------------------------------------------------
+
+## サガン＆ダイヤモンド - アパレル店
+Vendors.wbr_jpn_clothingshop_01:
+  # localizedName: "wbr_jpn_clothingshop_01"
+  inGameTimeToRestock: 7200
+
+## 桜花マーケット - アパレル店
+Vendors.wbr_jpn_clothingshop_02:
+  # localizedName: "wbr_jpn_clothingshop_02"
+  inGameTimeToRestock: 7200
+
+## スカイライン＆サリナス - 鉄砲店
+Vendors.wbr_jpn_gunsmith_01:
+  # localizedName: "wbr_jpn_gunsmith_01"
+  inGameTimeToRestock: 7200
+
+## クレセント＆ブロード - 近接武器屋
+Vendors.wbr_jpn_melee_01:
+  # localizedName: "wbr_jpn_melee_01"
+  inGameTimeToRestock: 7200

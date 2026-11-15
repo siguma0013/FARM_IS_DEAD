@@ -1,0 +1,36 @@
+# --------------------------------------------------------------------------------
+# パワーアサルトライフル
+# --------------------------------------------------------------------------------
+
+## D5 コパーヘッド
+Items.Preset_Base_Copperhead_inline4.itemPartList: []
+Items.Preset_Base_Copperhead_inline5.itemPartList: []
+
+## DA8 アンブラ
+Items.Preset_Umbra_Default_inline4.itemPartList: []
+Items.Preset_Umbra_Default_inline5.itemPartList: []
+
+## HJSH-18 マサムネ
+Items.Preset_Base_Masamune_inline4.itemPartList: []
+Items.Preset_Base_Masamune_inline5.itemPartList: []
+
+## M251s アイアス
+Items.Preset_Ajax_Default_inline4.itemPartList: []
+Items.Preset_Ajax_Default_inline5.itemPartList: []
+
+## キュウビ
+Items.Preset_Kyubi_Default_inline4.itemPartList: []
+Items.Preset_Kyubi_Default_inline5.itemPartList: []
+
+## ノワキ
+Items.Preset_Masamune_Arasaka_2020_inline4.itemPartList: []
+Items.Preset_Masamune_Arasaka_2020_inline5.itemPartList: []
+
+
+# --------------------------------------------------------------------------------
+# スマートアサルトライフル
+# --------------------------------------------------------------------------------
+
+## D5 サイドワインダー
+Items.Preset_Sidewinder_Default_inline4.itemPartList: []
+Items.Preset_Sidewinder_Default_inline5.itemPartList: []

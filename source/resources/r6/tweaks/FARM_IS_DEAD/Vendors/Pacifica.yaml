@@ -1,0 +1,48 @@
+# --------------------------------------------------------------------------------
+# パシフィカ - 西ウィンド・エステート
+# --------------------------------------------------------------------------------
+
+## 西ウィンド・エステート - アパレル店
+Vendors.pac_cvi_clothingshop_01:
+  # localizedName: "pac_cvi_clothingshop_01"
+  inGameTimeToRestock: 7200
+
+## 西ウィンド・エステート - 鉄砲店
+Vendors.pac_wwd_gunsmith_01:
+  # localizedName: "pac_wwd_gunsmith_01"
+  inGameTimeToRestock: 7200
+
+## 西ウィンド・エステート - 近接武器屋
+Vendors.pac_wwd_melee_01:
+  # localizedName: "pac_wwd_melee_01"
+  inGameTimeToRestock: 7200
+
+
+# --------------------------------------------------------------------------------
+# パシフィカ - ドッグタウン
+# --------------------------------------------------------------------------------
+
+## ロングショア・スタックス - アパレル店
+Vendors.cz_con_clothingshop_001:
+  # localizedName: "cz_con_clothingshop_001"
+  inGameTimeToRestock: 7200
+
+## ロングショア・スタックス - 鉄砲店
+Vendors.cz_con_gunsmith_01:
+  # localizedName: "cz_con_gunsmith_01"
+  inGameTimeToRestock: 7200
+
+## EBMペトロケムスタジアム - アパレル店
+Vendors.cz_stadium_clothing_001:
+  # localizedName: "cz_stadium_clothing_001"
+  inGameTimeToRestock: 7200
+
+## EBMペトロケムスタジアム - 鉄砲店
+Vendors.cz_stadium_gunsmith_01:
+  # localizedName: "cz_stadium_gunsmith_01"
+  inGameTimeToRestock: 7200
+
+## EBMペトロケムスタジアム - ブラックマーケットショップ
+Vendors.BlackMarketer_HUB:
+  # localizedName: "BlackMarketer_HUB"
+  inGameTimeToRestock: 7200

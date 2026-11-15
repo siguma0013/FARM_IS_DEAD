@@ -1,0 +1,61 @@
+# --------------------------------------------------------------------------------
+# パワーピストル
+# --------------------------------------------------------------------------------
+
+## M-10AF レキシントン
+Items.Preset_Base_Lexington_inline4.itemPartList: []
+Items.Preset_Base_Lexington_inline5.itemPartList: []
+
+## タマユラ
+Items.Preset_Nue_Arasaka_2020_inline4.itemPartList: []
+Items.Preset_Nue_Arasaka_2020_inline5.itemPartList: []
+
+## ヌエ
+Items.Preset_Nue_Default_inline4.itemPartList: []
+Items.Preset_Nue_Default_inline5.itemPartList: []
+
+## ユニティ
+Items.Preset_Unity_Default_inline4.itemPartList: []
+Items.Preset_Unity_Default_inline5.itemPartList: []
+
+## リバティ
+Items.Preset_Liberty_Default_inline4.itemPartList: []
+Items.Preset_Liberty_Default_inline5.itemPartList: []
+
+
+# --------------------------------------------------------------------------------
+# テックピストル
+# --------------------------------------------------------------------------------
+
+## HA-4 グリット
+Items.Preset_Grit_Default_inline4.itemPartList: []
+Items.Preset_Grit_Default_inline5.itemPartList: []
+
+## JKE-X2 ケンシン
+Items.Preset_Kenshin_Default_inline4.itemPartList: []
+Items.Preset_Kenshin_Default_inline5.itemPartList: []
+
+## M-76e オマハ
+Items.Preset_Omaha_Default_inline4.itemPartList: []
+Items.Preset_Omaha_Default_inline5.itemPartList: []
+
+## ミリテク タイコン
+Items.Preset_Ticon_Default_inline4.itemPartList: []
+Items.Preset_Ticon_Default_inline5.itemPartList: []
+
+
+# --------------------------------------------------------------------------------
+# スマートピストル
+# --------------------------------------------------------------------------------
+
+## A-22B チャオ
+Items.Preset_Chao_Default_inline4.itemPartList: []
+Items.Preset_Chao_Default_inline5.itemPartList: []
+
+## HJKE-11 ユキムラ
+Items.Preset_Yukimura_Default_inline4.itemPartList: []
+Items.Preset_Yukimura_Default_inline5.itemPartList: []
+
+## カッパ
+Items.Preset_Kappa_Default_inline4.itemPartList: []
+Items.Preset_Kappa_Default_inline5.itemPartList: []

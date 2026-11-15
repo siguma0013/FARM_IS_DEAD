@@ -1,0 +1,45 @@
+# --------------------------------------------------------------------------------
+# パワーサブマシンガン
+# --------------------------------------------------------------------------------
+
+## DS1 パルサー
+Items.Preset_Pulsar_Default_inline4.itemPartList: []
+Items.Preset_Pulsar_Default_inline5.itemPartList: []
+
+## M221 サラトガ
+Items.Preset_Saratoga_Default_inline4.itemPartList: []
+Items.Preset_Saratoga_Default_inline5.itemPartList: []
+
+## ギロチン
+Items.Preset_Guillotine_Default_inline4.itemPartList: []
+Items.Preset_Guillotine_Default_inline5.itemPartList: []
+
+## シグレ
+Items.Preset_Saratoga_Arasaka_2020_inline4.itemPartList: []
+Items.Preset_Saratoga_Arasaka_2020_inline5.itemPartList: []
+
+
+# --------------------------------------------------------------------------------
+# テックサブマシンガン
+# --------------------------------------------------------------------------------
+
+## センコウ LX
+Items.Preset_Senkoh_Default_inline4.itemPartList: []
+Items.Preset_Senkoh_Default_inline5.itemPartList: []
+
+
+# --------------------------------------------------------------------------------
+# スマートサブマシンガン
+# --------------------------------------------------------------------------------
+
+## G-58 ディアン
+Items.Preset_Dian_Default_inline4.itemPartList: []
+Items.Preset_Dian_Default_inline5.itemPartList: []
+
+## TKI-20 シンゲン
+Items.Preset_Shingen_Default_inline4.itemPartList: []
+Items.Preset_Shingen_Default_inline5.itemPartList: []
+
+## ウォーデン
+Items.Preset_Warden_Default_inline4.itemPartList: []
+Items.Preset_Warden_Default_inline5.itemPartList: []

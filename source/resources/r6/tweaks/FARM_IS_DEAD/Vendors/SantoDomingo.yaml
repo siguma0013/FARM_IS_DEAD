@@ -1,0 +1,33 @@
+# --------------------------------------------------------------------------------
+# サントドミンゴ - アロヨ
+# --------------------------------------------------------------------------------
+
+## メトロ：ウォルセン通り - アパレル店
+Vendors.std_arr_clothingshop_01:
+  # localizedName: "std_arr_clothingshop_01"
+  inGameTimeToRestock: 7200
+
+## メトロ：ウォルセン通り - 鉄砲店
+Vendors.std_arr_gunsmith_01:
+  # localizedName: "std_arr_gunsmith_01"
+  inGameTimeToRestock: 7200
+
+
+# --------------------------------------------------------------------------------
+# サントドミンゴ - ランチョ・コロナド
+# --------------------------------------------------------------------------------
+
+## ランチョ・コロナド南 - 近接武器屋
+Vendors.std_arr_melee_01:
+  # localizedName: "std_arr_melee_01"
+  inGameTimeToRestock: 7200
+
+## マラグラ＆マンザニータ - アパレル店
+Vendors.std_rcr_clothingshop_01:
+  # localizedName: "std_rcr_clothingshop_01"
+  inGameTimeToRestock: 7200
+
+## ウッドヘイブン通り - 鉄砲店
+Vendors.std_rcr_gunsmith_01:
+  # localizedName: "std_rcr_gunsmith_01"
+  inGameTimeToRestock: 7200
